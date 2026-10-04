@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.setkaabwoy.twa",
+      "sha256_cert_fingerprints": [
+        "9D:FD:F6:03:C9:54:48:78:AE:F3:BC:4A:23:BD:F1:91:4E:DC:38:FD:2C:F3:55:88:A4:FF:13:20:F6:6B:5A:1A"
+      ]
+    }
+  }
+]
